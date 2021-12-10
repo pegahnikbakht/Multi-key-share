@@ -1,6 +1,5 @@
-# Native OTA example
-
-This example is based on `app_update` component's APIs.
+# Key update example
+A multicast key update example for esp32
 
 ## Configuration
 
