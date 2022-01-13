@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := native_ota
+PROJECT_NAME := key_share
 
 EXTRA_COMPONENT_DIRS = $(IDF_PATH)/examples/common_components/protocol_examples_common
 
